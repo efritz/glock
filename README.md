@@ -1,3 +1,7 @@
+# Deprecated
+
+This project has moved to https://github.com/derision-test/glock.
+
 # Glock
 
 [![GoDoc](https://godoc.org/github.com/efritz/glock?status.svg)](https://godoc.org/github.com/efritz/glock)
